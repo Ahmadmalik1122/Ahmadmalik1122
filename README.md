@@ -80,5 +80,7 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/MuhammadAhmad1122)
 
 ---
+## 🐍 Contribution Snake
 
+![Snake animation](https://github.com/Ahmadmalik1122/Ahmadmalik1122/blob/output/github-contribution-grid-snake.svg)
 ⭐️ From **Muhammad Ahmad**
