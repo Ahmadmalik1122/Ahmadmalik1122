@@ -17,6 +17,11 @@
 - ⚡ Fun Fact: **I love turning ideas into real-world applications.**
 
 ---
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,git,github,vscode&perline=6"/>
+</p>
 
 ## 🌐 Connect With Me
 
