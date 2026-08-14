@@ -80,8 +80,6 @@ Node.js + Express.js + SQLite + JavaScript
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats-shion.vercel.app/api?username=Ahmadmalik1122&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
   <img src="https://github-readme-stats-shion.vercel.app/api/top-langs/?username=Ahmadmalik1122&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
