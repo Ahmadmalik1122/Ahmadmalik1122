@@ -92,10 +92,8 @@ Node.js + Express.js + SQLite + JavaScript
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmadmalik1122&theme=tokyonight&row=1&column=7"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ahmadmalik1122&theme=tokyonight&row=1&column=7&margin-w=10&no-frame=true" alt="GitHub Trophies"/>
 </p>
-
----
 
 # 📈 Contribution Graph
 
