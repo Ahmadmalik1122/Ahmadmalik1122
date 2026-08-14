@@ -142,6 +142,9 @@ Node.js + Express.js + SQLite + JavaScript
 
 ### 🤖 Google AI Professional Certificate
 **Google (via Coursera)** · Issued July 2026
+
+---
+
 # 👀 Profile Views
 
 <p align="center">
