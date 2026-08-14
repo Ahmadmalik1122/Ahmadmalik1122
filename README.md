@@ -80,19 +80,16 @@ Node.js + Express.js + SQLite + JavaScript
 
 # 📊 GitHub Stats
 
+# 📊 GitHub Stats
+
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmadmalik1122&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadmalik1122&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats-shion.vercel.app/api?username=Ahmadmalik1122&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-shion.vercel.app/api/top-langs/?username=Ahmadmalik1122&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadmalik1122&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=Ahmadmalik1122&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 # 🏆 GitHub Trophies
 
