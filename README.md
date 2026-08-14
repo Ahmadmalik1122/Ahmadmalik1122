@@ -99,15 +99,23 @@
 
 # 🎓 Certifications
 
-- 🏅 Oracle APEX
-- 🏅 GitHub Foundations
-- 🏅 Microsoft Learn
-- 🏅 Google Cloud Skills Boost
+<p align="center">
 
-> 🚀 More certifications coming soon...
+<a href="https://www.credly.com/badges/121f8390-adc2-40bd-b94c-be8cf4c520d4/public_url">
+<img src="https://img.shields.io/badge/MongoDB-Basics%20for%20Students-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</a>
 
----
+<a href="https://coursera.org/share/6ebb7a470d4f01a7a73de65e37a3a8fd">
+<img src="https://img.shields.io/badge/Google-AI%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
 
+</p>
+
+### 🏅 MongoDB Basics for Students
+**MongoDB** · Issued August 2026
+
+### 🤖 Google AI Professional Certificate
+**Google (via Coursera)** · Issued July 2026
 # 👀 Profile Views
 
 <p align="center">
