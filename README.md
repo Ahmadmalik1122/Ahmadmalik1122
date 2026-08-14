@@ -52,20 +52,29 @@
 <p align="center">
 
 <a href="https://github.com/Ahmadmalik1122/Task-Manager-React-Native">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmadmalik1122&repo=Task-Manager-React-Native&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/📱%20Task%20Manager-React%20Native%20%7C%20Firebase-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Ahmadmalik1122/CodeAlpha-Ecommerce-Store">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmadmalik1122&repo=CodeAlpha-Ecommerce-Store&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/🛒%20Ecommerce%20Store-Node.js%20%7C%20Express%20%7C%20SQLite-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/Ahmadmalik1122/RealTime-Collab-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmadmalik1122&repo=RealTime-Collab-App&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Ahmadmalik1122/Task-Manager-React-Native">
+<b>📱 Task Manager React Native</b>
 </a>
+<br>
+React Native + Expo + Firebase
+<br><br>
+
+<a href="https://github.com/Ahmadmalik1122/CodeAlpha-Ecommerce-Store">
+<b>🛒 CodeAlpha Ecommerce Store</b>
+</a>
+<br>
+Node.js + Express.js + SQLite + JavaScript
 
 </p>
 
