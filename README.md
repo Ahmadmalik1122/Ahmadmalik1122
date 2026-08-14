@@ -49,13 +49,25 @@
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 📱 Task Manager React Native | React Native + Firebase Task Management App |
-| 🛒 CodeAlpha Ecommerce Store | Full Stack E-commerce using Node.js, Express & SQLite |
-| 🤝 Real-Time Collaboration App | MERN + Socket.io Collaboration Platform |
+<p align="center">
 
----
+<a href="https://github.com/Ahmadmalik1122/Task-Manager-React-Native">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmadmalik1122&repo=Task-Manager-React-Native&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Ahmadmalik1122/CodeAlpha-Ecommerce-Store">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmadmalik1122&repo=CodeAlpha-Ecommerce-Store&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Ahmadmalik1122/RealTime-Collab-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmadmalik1122&repo=RealTime-Collab-App&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
 
 # 📊 GitHub Stats
 
