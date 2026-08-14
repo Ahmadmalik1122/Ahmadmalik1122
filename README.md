@@ -78,6 +78,8 @@ Node.js + Express.js + SQLite + JavaScript
 
 </p>
 
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -88,6 +90,8 @@ Node.js + Express.js + SQLite + JavaScript
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Ahmadmalik1122&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
 
 # 🏆 GitHub Achievements
 
@@ -100,6 +104,9 @@ Node.js + Express.js + SQLite + JavaScript
 🤖 AI & Backend Development
 
 </p>
+
+---
+
 # 📈 Contribution Graph
 
 <p align="center">
