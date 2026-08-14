@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Muhammad Ahmad Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">Software Engineering Student | Full Stack Web Developer | React Native Developer</h3>
 
