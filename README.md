@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | Full Stack Web Developer | React Native Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;React+Native+Developer;Oracle+APEX+Developer;Node.js+Backend+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;React+Native+Developer;Node.js+Backend+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
