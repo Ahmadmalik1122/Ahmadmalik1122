@@ -143,6 +143,4 @@
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;React+Native+Developer;Oracle+APEX+Developer;Node.js+Backend+Developer;AI+Enthusiast;Always+Learning+New+Technologies+🚀" />
-</p>
+
