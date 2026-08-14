@@ -89,12 +89,17 @@ Node.js + Express.js + SQLite + JavaScript
   <img src="https://streak-stats.demolab.com/?user=Ahmadmalik1122&theme=tokyonight&hide_border=true"/>
 </p>
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ahmadmalik1122&theme=tokyonight&row=1&column=7&margin-w=10&no-frame=true" alt="GitHub Trophies"/>
-</p>
 
+⭐ Building Open Source Projects  
+🔥 Growing GitHub Contributions  
+🚀 Full Stack Development  
+📱 React Native Development  
+🤖 AI & Backend Development
+
+</p>
 # 📈 Contribution Graph
 
 <p align="center">
